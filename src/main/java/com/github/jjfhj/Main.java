@@ -14,6 +14,8 @@ public class Main {
         greenfield.sayNameAndCompositionOfTeaSet();
         greenfield.calculatePriceOfTeaSetWithDiscount();
 
+        System.out.println();
+
         Tea ahmadTea = new Tea();
         ahmadTea.teaSetName = "Ahmad Tea";
         ahmadTea.countOfTeaBags = 90;
