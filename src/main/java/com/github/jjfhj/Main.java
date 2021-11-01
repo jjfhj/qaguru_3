@@ -1,5 +1,4 @@
 package com.github.jjfhj;
 
-public class NewClass {
-
+public class Main {
 }
